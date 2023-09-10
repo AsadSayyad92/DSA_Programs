@@ -71,7 +71,7 @@ scanf("%d",&ch);
 switch(ch)
 {
 case 1: printf("\n Enter the element to be enqueued:");
-        scanf("%d",&ch);
+        scanf("%d",&x);
         enqueue(x);
         break;
  
