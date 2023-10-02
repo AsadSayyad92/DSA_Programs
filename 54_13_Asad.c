@@ -23,12 +23,11 @@ void encircular(int x)
 	
 	else
 	{
-		if(front==-1)
+		if(front==-1)    // keeps track of position of element
 		{
 		front = 0;
-		queue[size]=x;
 		}
-		rear = (rear+1)%size;
+		rear = (rear+1)%size;  // adding elements
 		queue[rear] = x;
 	}
 }
@@ -42,7 +41,7 @@ void decircular()
 	else
 	{ 
 	int a = queue[front];
-        if (front == rear) {
+        if (front == rear) {    // only one element present
             front = -1;
             rear = -1;
         } else {
