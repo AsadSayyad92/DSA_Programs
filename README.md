@@ -4,7 +4,6 @@
 
 # Data Structure Lab Experiments
 
-# Data Structure Lab Experiments
 
 **Name:** Asad Sayyad
 
