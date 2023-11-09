@@ -17,7 +17,7 @@
 | Question Number | Program Description                                      | Link to Code |
 | --------------- | ------------------------------------------------------- | ------------ |
 | Q1              | Check if a given number is Fibonacci number             | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_1_Asad.c)     |
-| Q2              | Generate Pascal Triangle using array                   | [Link](#)     |
+| Q2              | Generate Pascal Triangle using array                   | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_2_Asad.c)     |
 | Q3              | Sort student records by roll number                     | [Link](#)     |
 | Q4              | Sort student records by percentage in descending order  | [Link](#)     |
 | Q5              | Find the largest element in an array                    | [Link](#)     |
