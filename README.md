@@ -27,28 +27,109 @@
 
 ## Part B
 
-| Question Number | Program Description                                      | Link to Code |
-| --------------- | ------------------------------------------------------- | ------------ |
-| Q1              | Implement list ADT using SINGLE LINKED LIST             | [Link](#)     |
-| Q2              | Implement list ADT using CIRCULAR LINKED LIST           | [Link](#)     |
-| Q3              | Implement list ADT using DOUBLE LINKED LIST             | [Link](#)     |
-| Q4              | Implement list ADT using CIRCULAR DOUBLE LINKED LIST    | [Link](#)     |
-| Q5              | Implement STACK ADT using array                         | [Link](#)     |
-| Q6              | Implement STACK ADT using linked list                   | [Link](#)     |
-| Q7              | Reverse a given string using a Stack                    | [Link](#)     |
-| Q8              | Check if a given number is a PALINDROME using a stack   | [Link](#)     |
-| Q9              | Implement PARENTHESES CHECKER using a stack             | [Link](#)     |
-| Q10             | Conversion of INFIX to POSTFIX expression               | [Link](#)     |
-| Q11             | Evaluate postfix expressions using Stack                | [Link](#)     |
-| Q12             | Implement QUEUE ADT using array                         | [Link](#)     |
-| Q13             | Implement QUEUE ADT using linked list                   | [Link](#)     |
-| Q14             | Implement CIRCULAR QUEUE ADT using array                | [Link](#)     |
-| Q15             | Operations in a binary search tree (BST)                | [Link](#)     |
-| Q16             | Traversal of a directed graph through BFS               | [Link](#)     |
-| Q17             | Traversal of a directed graph through DFS               | [Link](#)     |
-| Q18             | Implement Binary Search                                  | [Link](#)     |
-| Q19             | Implement Bubble sort                                   | [Link](#)     |
-| Q20             | Implement Selection sort                                | [Link](#)     |
-| Q21             | Implement Insertion sort                                | [Link](#)     |
-| Q22             | Implement Quick sort                                    | [Link](#)     |
-| Q23             | Implement Merge sort                                    | [Link](#)     |
+| Question Number | Program Description                                              | Link to Code   |
+| --------------- | --------------------------------------------------------------- | -------------  |
+| Q1              | Write a menu-driven program to implement list ADT using SINGLE LINKED LIST and perform the following operations:
+                   1. CREATE
+                   2. INSERT AT BEGINNING
+                   3. INSERT AT END
+                   4. INSERT AT LOCATION
+                   5. DELETE AT BEGINNING
+                   6. DELETE AT END
+                   7. DELETE AT LOCATION
+                   8. DISPLAY
+                   9. SEARCH
+                   10. COUNT
+                   11. COPY
+                   12. CONCATENATE
+                   13. SPLIT
+                   14. REVERSE                                        | [Link](#)      |
+| Q2              | Write a menu-driven program to implement list ADT using CIRCULAR LINKED LIST and perform the following operations:
+                   1. CREATE
+                   2. INSERT AT BEGINNING
+                   3. INSERT AT END
+                   4. INSERT AT LOCATION
+                   5. DELETE AT BEGINNING
+                   6. DELETE AT END
+                   7. DELETE AT LOCATION
+                   8. DISPLAY
+                   9. SEARCH
+                   10. COUNT
+                   11. COPY
+                   12. CONCATENATE
+                   13. SPLIT
+                   14. REVERSE                                        | [Link](#)      |
+| Q3              | Write a menu-driven program to implement list ADT using DOUBLE LINKED LIST and perform the following operations:
+                   1. CREATE
+                   2. INSERT AT BEGINNING
+                   3. INSERT AT END
+                   4. INSERT AT LOCATION
+                   5. DELETE AT BEGINNING
+                   6. DELETE AT END
+                   7. DELETE AT LOCATION
+                   8. DISPLAY
+                   9. SEARCH
+                   10. COUNT
+                   11. COPY
+                   12. CONCATENATE
+                   13. SPLIT
+                   14. REVERSE                                        | [Link](#)      |
+| Q4              | Write a menu-driven program to implement list ADT using CIRCULAR DOUBLE LINKED LIST and perform the following operations:
+                   1. CREATE
+                   2. INSERT AT BEGINNING
+                   3. INSERT AT END
+                   4. INSERT AT LOCATION
+                   5. DELETE AT BEGINNING
+                   6. DELETE AT END
+                   7. DELETE AT LOCATION
+                   8. DISPLAY
+                   9. SEARCH
+                   10. COUNT
+                   11. COPY
+                   12. CONCATENATE
+                   13. SPLIT
+                   14. REVERSE                                        | [Link](#)      |
+| Q5              | Write a menu-driven program to implement STACK ADT using array and perform the following operations:
+                   1. PUSH
+                   2. POP
+                   3. DISPLAY
+                   4. PEEK                                         | [Link](#)      |
+| Q6              | Write a menu-driven program to implement STACK ADT using linked list and perform the following operations:
+                   1. PUSH
+                   2. POP
+                   3. DISPLAY
+                   4. PEEK                                         | [Link](#)      |
+| Q7              | Write a program to REVERSE a given string using a Stack            | [Link](#)      |
+| Q8              | Write a program to check if a given number is a PALINDROME using a stack | [Link](#)      |
+| Q9              | Write a program for the conversion of INFIX to POSTFIX expression  | [Link](#)      |
+| Q10             | Write a program to evaluate postfix expressions by making use of Stack | [Link](#)      |
+| Q11             | Write a menu-driven program to implement QUEUE ADT using array and perform the following operation:
+                   1. ENQUEUE
+                   2. DEQUEUE
+                   3. DISPLAY                                    | [Link](#)      |
+| Q12             | Write a menu-driven program to implement QUEUE ADT using linked list and perform the following operation:
+                   1. ENQUEUE
+                   2. DEQUEUE
+                   3. DISPLAY
+                   4. SEARCH                                    | [Link](#)      |
+| Q13             | Write a menu-driven program to implement CIRCULAR QUEUE ADT using array and perform the following operation:
+                   1. ENQUEUE
+                   2. DEQUEUE
+                   3. DISPLAY
+                   4. COUNT                                     | [Link](#)      |
+| Q14             | Write a menu-driven program to implement the following operations in a binary search tree (BST):
+                   1. Insertion of node
+                   2. Deletion of node
+                   3. Counting of nodes
+                   4. Preorder Traversal
+                   5. Postorder Traversal
+                   6. Inorder Traversal
+                   7. Search node in the tree              | [Link](#)      |
+| Q15             | Write a program to implement traversal of a directed graph through BFS  | [Link](#)      |
+| Q16             | Write a program to implement traversal of a directed graph through DFS  | [Link](#)      |
+| Q17             | Write a program to implement Binary Search  | [Link](#)      |
+| Q18             | Write a program to implement Bubble sort  | [Link](#)      |
+| Q19             | Write a program to implement Selection sort  | [Link](#)      |
+| Q20             | Write a program to implement Insertion sort  | [Link](#)      |
+| Q21             | Write a program to implement Quick sort  | [Link](#)      |
+| Q22             | Write a program to implement Merge sort  | [Link](#)      |
