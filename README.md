@@ -18,12 +18,12 @@
 | --------------- | ------------------------------------------------------- | ------------ |
 | Q1              | Check if a given number is Fibonacci number             | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_1_Asad.c)     |
 | Q2              | Generate Pascal Triangle using array                   | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_2_Asad.c)     |
-| Q3              | Sort student records by roll number                     | [Link](#)     |
-| Q4              | Sort student records by percentage in descending order  | [Link](#)     |
-| Q5              | Find the largest element in an array                    | [Link](#)     |
-| Q6              | Menu-driven array operations                             | [Link](#)     |
-| Q7              | Time structure operations                                | [Link](#)     |
-| Q8              | Compare two arrays for identity                         | [Link](#)     |
+| Q3              | Sort student records by roll number                     | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_3_Asad.c)     |
+| Q4              | Sort student records by percentage in descending order  | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_4_Asad.c)     |
+| Q5              | Find the largest element in an array                    | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_5_Asad.c)     |
+| Q6              | Menu-driven array operations                             | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_6_Asad.c)     |
+| Q7              | Time structure operations                                | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_7_Asad.c)     |
+| Q8              | Compare two arrays for identity                         | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_8_Asad.c)     |
 
 ## Part B
 
