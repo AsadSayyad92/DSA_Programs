@@ -44,7 +44,7 @@
 | Q13             | Write a menu-driven program to implement CIRCULAR QUEUE ADT using array and perform the following operation: 1. ENQUEUE 2. DEQUEUE 3. DISPLAY 4. COUNT | [Link](#)      |
 | Q14             | Write a menu-driven program to implement the following operations in a binary search tree (BST): 1. Insertion of node 2. Deletion of node 3. Counting of nodes 4. Preorder Traversal 5. Postorder Traversal 6. Inorder Traversal 7. Search node in the tree | [Link](#)      |
 | Q15             | Write a program to implement traversal of a directed graph through BFS | [Link](#)      |
-| Q16             | Write a program to implement traversal of a directed graph through DFS | [Link](#)      |
+| Q16             | Write a program to implement traversal of a directed graph through DFS | [Link](https://github.com/AsadSayyad92/DSA_Programs/blob/main/54_28_Asad.c)      |
 | Q17             | Write a program to implement Binary Search | [Link](#)      |
 | Q18             | Write a program to implement Bubble sort | [Link](#)      |
 | Q19             | Write a program to implement Selection sort | [Link](#)      |
